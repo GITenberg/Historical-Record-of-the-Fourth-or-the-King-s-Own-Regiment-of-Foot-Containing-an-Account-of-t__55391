@@ -1,6 +1,9 @@
 _repo: Historical-Record-of-the-Fourth-or-the-King-s-Own-Regiment-of-Foot-Containing-an-Account-of-t__55391
 _version: 0.1.0
 alternative_title: Historical record of the 4th Foot
+covers:
+- cover_type: archival
+  image_path: 55391-h/images/cover.jpg
 creator:
   author:
     agent_name: Cannon, Richard
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '45414'
     url: http://www.gutenberg.org/2009/agents/45414
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55391#Historical-Record-of-the-Fourth-or-the-King-s-Own-Regiment-of-Foot-Containing-an-Account-of-t_
 gutenberg_issued: '2017-08-20'
 gutenberg_type: Text
 identifiers:
